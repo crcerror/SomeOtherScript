@@ -1,2 +1,5 @@
-02/23/2019
-Versiontestfile
+#!/bin/bash
+echo "Hello World"
+echo "Create a file" > testfile.sh
+chmod +x testfile
+echo "That's all folks"
