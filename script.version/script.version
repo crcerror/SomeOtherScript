@@ -1,5 +1,4 @@
 #!/bin/bash
+echo $1
 echo "Hello World"
-echo "Create a file" > testfile.sh
-chmod +x testfile.sh
 echo "That's all folks"
